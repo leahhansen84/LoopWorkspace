@@ -42,6 +42,9 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           override_sens \
+          limit_loop_cycle_time \
+          now_line \
+          lnl_icon \
           customtypeone_looppatches \
           2002 \
           algorithm_experiments
